@@ -77,7 +77,7 @@ class EmpresaHidro extends Component{
                                     <input type="hidden" name="phone" value={celularHidro} />
                                     <input type="hidden" name="text" id='text' />
                                     <div className="col-12 col-lg-6 col-auto">
-                                        <input type="text" className="form-control" id="nombre" placeholder="nombre" required/>
+                                        <input type="text" className="form-control" id="nombre" placeholder="Nombre" required/>
                                     </div>
                                     <div className="col-12 col-lg-6 col-auto">
                                         <input type="text" className="form-control" id="Apellido" placeholder="Apellidos" required/>
@@ -204,7 +204,7 @@ class EmpresaHidro extends Component{
                                         <img src={reloj} height="30" alt="Marca Empresa" />
                                     </div>
                                     <div>
-                                        <p className="ajusteTexto">Nuestro sitio disponible las <strong>24 /7 </strong> los 365 días</p>
+                                        <p className="ajusteTexto">Nuestro sitio disponible <strong>24 /7 </strong> los 365 días</p>
                                     </div>
                                 </div>
                                 <div className="d-flex">
@@ -212,7 +212,7 @@ class EmpresaHidro extends Component{
                                         <img src={facebook} height="30" alt="Marca Empresa" />
                                     </div>
                                     <div>
-                                        <p className="ajusteTexto">Contamos con nuestras <strong>Redes Sociales</strong> para que nos sigues y te puedas comunicar con nosotros</p>
+                                        <p className="ajusteTexto">Contamos con nuestras <strong>Redes Sociales</strong> para que nos sigas y te puedas comunicar con nosotros</p>
                                     </div>
                                 </div>
                             </div>
@@ -224,7 +224,7 @@ class EmpresaHidro extends Component{
                     </div>
                     <div className="bombaAgua pt-5 pb-5" data-aos="down-up">
                         <p className="contactar text-center text-black fs-3" >ADQUIERE TUS PRODUCTOS EN HIDROCOMPRAS!</p>
-                        <p className="text-center text-black">Recuerde que con Hidrocompras encuentras todos los equipos hidráulicos residenciales e industriales.</p>
+                        <p className="text-center text-black">Recuerda que con Hidrocompras encuentras todos los equipos hidráulicos residenciales e industriales.</p>
                         <p className="text-center text-black">Cotiza en un solo click <img src={click} width="50" alt="imagen-hidro"/> </p>
                     </div>
                     <div className="container concatacnos" data-aos="down-up">

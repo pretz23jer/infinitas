@@ -70,8 +70,8 @@ class Monedas extends Component{
                             <div className="col-12 col-md-4" data-aos="fade-down">
                                 <div className="estiloTarjetaMonedas">
                                     <img src={CirculoMoneda} height="200" alt="Imagen Hidro" />
-                                    <p className="h3 text-center fw-bold text-white mb-3 mt-3">Gana Hidro FichaS</p>
-                                    <p className="text-center text-white h5 lh-base">¡Al comprar tus químicos y/o accesorios para tu piscina de cualquier marca ganas HIDRO-FICHAS!.</p>
+                                    <p className="h3 text-center fw-bold text-white mb-3 mt-3">Gana HIDRO-FICHAS?</p>
+                                    <p className="text-center text-white h5 lh-base">¡Al comprar tus químicos y/o accesorios para tu piscina de cualquier marca<br />"ganas HIDRO-FICHAS"!.</p>
                                 </div>
                             </div>
                             <div className="col-12 col-md-4" data-aos="fade-down">

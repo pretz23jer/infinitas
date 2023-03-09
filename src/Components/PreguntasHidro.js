@@ -45,7 +45,7 @@ class PreguntasHidro extends Component{
                                     </h2>
                                     <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                     <div className="accordion-body justificarTexto">
-                                    Descarga la app desde tu tienda AppS tote o Play Store, regístrate llenando los campos solicitados, ya que recibiste tu <strong>USUARIO</strong> y <strong>CONTRASEÑA</strong> tendrás acceso a la app donde encontraras nuestros productos y tu billetera digital, donde podrás ir controlando las ventas que refieres.
+                                    Descarga la app desde tu tienda App Store o Play Store, regístrate llenando los campos solicitados, ya que recibiste tu <strong>USUARIO</strong> y <strong>CONTRASEÑA</strong> tendrás acceso a la app donde encontraras nuestros productos y tu billetera digital, donde podrás ir controlando las ventas que refieres.
                                     </div>
                                     </div>
                                 </div>
@@ -106,7 +106,7 @@ class PreguntasHidro extends Component{
                                     </h2>
                                     <div id="siete" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                     <div className="accordion-body justificarTexto">
-                                    La comisión está diseñada para que técnicos en plomería puedan aumentar sus ingresos en base a sus trabajos diarios, sino eres técnico y deseas adquirir algún producto podemos ofrecerte un descuento sobre el mismo.
+                                    La comisión está diseñada para que técnicos en plomería puedan aumentar sus ingresos en base a sus trabajos diarios, si no eres técnico y deseas adquirir algún producto podemos ofrecerte un descuento sobre el mismo.
                                     </div>
                                     </div>
                                 </div>
