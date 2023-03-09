@@ -19,9 +19,6 @@ import reloj from '../Resources/reloj.ico';
 import anuncio from '../Resources/anuncio.jpg';
 import click from '../Resources/verde.ico';
 import facebook from '../Resources/face.ico';
-import bombas from '../Resources/p6.png';
-import depositos from '../Resources/purifica.png';
-import calentadores from '../Resources/calentador.png';
 
 import Categoria1 from '../Resources/cat1.png';
 import Categoria2 from '../Resources/cat2.png';
