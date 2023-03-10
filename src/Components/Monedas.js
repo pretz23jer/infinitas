@@ -64,7 +64,7 @@ class Monedas extends Component{
                 </Carousel>
                 <div className="fondoBeigeDos pt-5 pb-5" data-aos="fade-down">
                     <div className="container mt-4">
-                        <p className="h1 monedaTexto">¿Qué son los HIDRO-FICHAS" _____________________________</p>
+                        <p className="h1 monedaTexto">¿Qué son las HIDRO-FICHAS?_____________________________</p>
                         <p className="h4 pt-4 pb-4">HIDRO-FICHAS <img src={Logo} height="40" alt="Imagen Hidro" /></p>
                         <div className="row mb-5 pb-5">
                             <div className="col-12 col-md-4" data-aos="fade-down">

@@ -142,7 +142,7 @@ class Home extends Component{
                         <div className="col-12 col-lg-3">
                             <div className="izquiTar tarjetaProducto" data-aos="fade-down">
                                 <img src={Logo} width="50" alt="Imagen Hidro" />
-                                <p className="fw-bold h6 pt-3 pb-3">REPRACIONES DE EQUIPOS (TALLER)</p>
+                                <p className="fw-bold h6 pt-3 pb-3">REPARACIONES DE EQUIPOS (TALLER)</p>
                                 <p>Todas las reparaciones de calentadores, bombas, purificadores y tanques ganas también una comisión con nuestro Taller </p>
                             </div>
                         </div>
